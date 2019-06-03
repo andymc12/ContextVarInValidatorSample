@@ -1,4 +1,7 @@
 /target
-ContextVarInValidator/.project
+/.project
+/.classpath
+/.settings
 ContextVarInValidator/.classpath
+ContextVarInValidator/.project
 ContextVarInValidator/.settings
